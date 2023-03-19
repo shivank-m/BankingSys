@@ -23,6 +23,9 @@
           <li class="nav-item">
             <a class="nav-link" href="transactionhistory.php">HISTORY</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="idonate.php">HISTORY</a>
+          </li>
         </ul>
       </div>
     </div>
